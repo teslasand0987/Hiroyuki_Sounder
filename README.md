@@ -12,7 +12,7 @@ PyAudio をインストールしてください。 PyAudio をインストール
 python hiroyuki_sounder.py
 ```
 
-### 声の主
+## 声の主
 西村博之（にしむらひろゆき）'76年、神奈川県生まれ。フランス在住、たまに日本。2ちゃんねる・ニコニコの元管理人で、英語圏最大の掲示板サイト『4chan』現管理人。（「SPA!」より引用）
 
 ![Hiroyuki](http://hirox246.html.xdomain.jp/images/Hiroyuki_Nishimura's_dinner_20110506.jpg)
