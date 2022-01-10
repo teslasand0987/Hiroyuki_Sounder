@@ -1,6 +1,7 @@
 # Hiroyuki_Sounder
 ひろゆきのボイスを指定したオーディオデバイスに流すことができるPythonのアプリケーションです。
 (必要追加ライブラリは PyAudioです。)
+
 ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=Python&style=flat)
 
 ![Image 1](images/app_image.JPG)
